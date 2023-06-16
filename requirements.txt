@@ -1,0 +1,6 @@
+steamlit
+pandas
+matplotlib 
+seaborn
+plotly
+Images
